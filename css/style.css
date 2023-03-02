@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloock&family=Merriweather:ital@1&family=Raleway:wght@300&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+	margin: 0px;}
+ 
+p {
+	color: green;
+	font-family: 'Merriweather', serif;}
+	
+h1 {
+	color: #E1EEDD;
+	font-family: 'Gloock', serif;
+}
+a{
+	text-decoration: none;}
+
+h2 {
+	color: #FEFBE9;
+	font-family: 'Gloock', serif;
+	font-size: 30px;}
+
+#subtitle{
+	color: #183A1D;
+}
+body{
+	background-color: #E1EEDD;
+}
